@@ -1,0 +1,6 @@
+1. Project Title
+Play Rock, Paper, Scissors!
+2. What is the purpose of your project? Tell about your project
+The purpose of my project is you play the game rock, paper, scissors with the laptop/computer. You simply get a higher score if you beat the ai.
+3. How does your program works? Explin how to run  your program.
+It works by choosing a number between 1-4 if you choose 1 its rock, if you choose 2 its paper, if you choose 3 its scissors if you choose 4 it will result you quitting the game. To gain a point you need to beat the ai like if you choose 1 and they choose 3 you will gain a point because rock beats scissors, but if you chose 2 and the ai chose 3 the ai will gain a point because scissors cuts paper, but if you both picked the same thing neither of you will gain a point.
